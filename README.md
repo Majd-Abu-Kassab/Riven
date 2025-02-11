@@ -34,8 +34,7 @@ If you find any security vulnerability that has been inadvertently caused by me,
 
 <img align="left" src="https://github.com/Majd-Abu-Kassab/Riven/blob/main/logoooo.jpg" width="150" height="150"/>
 <br>
-Majd Abo Kassab<br>
-President at ProjectK.<br>
+Riven Co-op<br>
 Email: app.ProjectK@gmail.com<br> 
 Amman, Jordan<br>
  
