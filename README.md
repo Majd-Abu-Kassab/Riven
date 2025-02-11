@@ -32,7 +32,7 @@ You have the right to delete or request that We assist in deleting the Personal 
 
 If you find any security vulnerability that has been inadvertently caused by me, or have any question regarding how the app protectes your privacy, please send me an email or post a discussion on GitHub, and we will surely try to fix it/help you.
 
-<img align="left" src="https://github.com/Majd-Abu-Kassab/Riven/blob/main/logoooo.jpg" width="150" height="150"/>
+<img align="left" src="https://github.com/Majd-Abu-Kassab/Riven/blob/main/logooooooo.png" width="150" height="150"/>
 <br>
 Riven Co-op<br>
 Email: app.ProjectK@gmail.com<br> 
