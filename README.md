@@ -30,7 +30,7 @@ The Company will also retain Usage Data for internal analysis purposes. Usage Da
 ### Delete Your Personal Data
 You have the right to delete or request that We assist in deleting the Personal Data that We have collected about You.
 
-If you find any security vulnerability that has been inadvertently caused by me, or have any question regarding how the app protectes your privacy, please send me an email or post a discussion on GitHub, and I will surely try to fix it/help you.
+If you find any security vulnerability that has been inadvertently caused by me, or have any question regarding how the app protectes your privacy, please send me an email or post a discussion on GitHub, and we will surely try to fix it/help you.
 
 <img align="left" src="https://github.com/Majd-Abu-Kassab/Riven/blob/main/logoooo.jpg" width="150" height="150"/>
 <br>
